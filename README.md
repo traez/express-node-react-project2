@@ -51,6 +51,7 @@ Create a project with an Express/Node backend and a React frontend. We will set 
 
 - Node.js and Express.js backend with React frontend.
 - My first time doing a React project with Vite as against CRA.
+- I have to do NPM run on both server and client to get app to work. I still don't know my way around production ...getting it to work when deployed on Github-Vercel. With more learning this should be sorted out. Hated tutorial hell and wanted to get out by all means.
 
 ### Continued development
 
