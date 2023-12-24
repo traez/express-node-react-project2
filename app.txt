@@ -1,0 +1,10 @@
+How to Create a Express/Node + React Project | Node Backend + React Frontend 
+https://www.youtube.com/watch?v=w3vs4a03y3I
+Tutorial Client package.json instructions didnt work, but this did https://medium.com/@faazfajib7/setup-proxy-in-vite-react-2eb1454bff62
+
+https://www.youtube.com/results?search_query=simple+node.js++express.js+exercises
+https://www.google.com/search?q=simple+node.js+and+express.js+projects+exercises
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
